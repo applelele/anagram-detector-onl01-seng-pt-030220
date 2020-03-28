@@ -25,7 +25,6 @@ class Anagram
     else
       return []
     end
-
   end
 
 end
